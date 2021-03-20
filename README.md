@@ -1,4 +1,4 @@
-# Well_Being_Data
+# Punkin_Punks_ETL_Project
 
 ### Project Proposal
 
@@ -16,7 +16,3 @@ After transforming these data into one dataframe, we will load it into a Mongo D
 The repo has already created with Thomas as the repo owner. 
 
 Thomas will work on extracting the csv's and cleaning them in advance of Wednesday's class. Wednesday we'll work on the joining of the tables in Pandas and start the load process if there's time. Saturday we will finish the load process and clean up our repo and do a final report in the README. 
-
-
-
-On Wednesday, we uploaded data from four csv files: clean_gdp, clean_happiness, clean_inflation, clean_savings. Each of these tables were converted into dataframes and the number indexes were taken out
